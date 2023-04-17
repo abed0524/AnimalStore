@@ -32,4 +32,5 @@ ul {
  table, th, td{
     border: 2px solid;
     background-color: brown;
+    margin: auto;
  }
